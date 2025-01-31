@@ -5,6 +5,8 @@ from markitdown import MarkItDown
 from openai import OpenAI
 import tempfile
 import os
+from pypdf import PdfReader
+
 
 app = FastAPI()
 client = OpenAI(
@@ -49,6 +51,32 @@ def extract_markdown_from_pdf(pdf_file: UploadFile) -> str:
         return result.text_content, elapsed_time
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing PDF: {str(e)}")
+
+def extract_text_from_pdf(pdf_file: UploadFile) -> str:
+    """Extract text content from a PDF file."""
+    try:
+        if pdf_file.filename.split(".")[-1]!= "pdf":
+            raise HTTPException(status_code=400, detail="Invalid PDF file. Please upload a PDF file.")
+        start_time = time.time()
+        # Save the uploaded file to a temporary location
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
+            temp_file.write(pdf_file.file.read())
+            temp_file_path = temp_file.name
+        # Open the PDF file
+        with open(temp_file_path, "rb") as file:
+            pdf_reader = PdfReader(file)
+            text_content = ""
+            for page in pdf_reader.pages:
+                text_content += page.extract_text()
+        # Clean up the temporary file
+        os.unlink(temp_file_path)
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print(f"Time taken for text extraction: {elapsed_time:.2f} seconds")
+        return text_content, elapsed_time
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing PDF: {str(e)}")
+
 def get_structured_output_from_markdown(content: str) -> Resume:
     """Get structured output from markdown content using OpenAI."""
     try:
@@ -77,7 +105,8 @@ async def extract_resume(pdf_file: UploadFile = File(...)):
     """API endpoint to extract structured resume data from a PDF."""
     try:
         # Step 1: Extract markdown content from the PDF
-        markdown_content, markdown_time = extract_markdown_from_pdf(pdf_file)
+        # markdown_content, markdown_time = extract_markdown_from_pdf(pdf_file)
+        markdown_content, markdown_time = extract_text_from_pdf(pdf_file)
 
         # Step 2: Get structured output from the markdown content
         structured_output, openai_time = get_structured_output_from_markdown(markdown_content)

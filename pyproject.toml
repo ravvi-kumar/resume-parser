@@ -8,4 +8,5 @@ dependencies = [
     "fastapi[standard]>=0.115.8",
     "markitdown>=0.0.1a3",
     "openai>=1.60.2",
+    "pypdf>=5.2.0",
 ]

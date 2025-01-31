@@ -831,6 +831,15 @@ wheels = [
 ]
 
 [[package]]
+name = "pypdf"
+version = "5.2.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/49/8b/14ab0db77d1287922e1d3e69cf3dbeee718133e109913b92c6cffe7b1f2e/pypdf-5.2.0.tar.gz", hash = "sha256:7c38e68420f038f2c4998fd9d6717b6db4f6cef1642e9cf384d519c9cf094663", size = 5020162 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3e/6e/9aa158121eb5a6af5537af0bde9e38092a97c40a5a0ecaec7cc9688b2c2e/pypdf-5.2.0-py3-none-any.whl", hash = "sha256:d107962ec45e65e3bd10c1d9242bdbbedaa38193c9e3a6617bd6d996e5747b19", size = 298686 },
+]
+
+[[package]]
 name = "python-dateutil"
 version = "2.9.0.post0"
 source = { registry = "https://pypi.org/simple" }
@@ -933,6 +942,7 @@ dependencies = [
     { name = "fastapi", extra = ["standard"] },
     { name = "markitdown" },
     { name = "openai" },
+    { name = "pypdf" },
 ]
 
 [package.metadata]
@@ -940,6 +950,7 @@ requires-dist = [
     { name = "fastapi", extras = ["standard"], specifier = ">=0.115.8" },
     { name = "markitdown", specifier = ">=0.0.1a3" },
     { name = "openai", specifier = ">=1.60.2" },
+    { name = "pypdf", specifier = ">=5.2.0" },
 ]
 
 [[package]]
