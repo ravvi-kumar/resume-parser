@@ -6,7 +6,7 @@ from openai import OpenAI
 import tempfile
 import os
 from pypdf import PdfReader
-
+from .schema import Response
 
 app = FastAPI()
 client = OpenAI(
@@ -77,14 +77,15 @@ def extract_text_from_pdf(pdf_file: UploadFile) -> str:
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing PDF: {str(e)}")
 
-def get_structured_output_from_markdown(content: str) -> Resume:
+def get_structured_output_from_markdown(content: str) -> Response:
     """Get structured output from markdown content using OpenAI."""
     try:
         start_time = time.time()
         llm_response = client.beta.chat.completions.parse(
-            model="gpt-4o-2024-08-06",
+            # model="gpt-4o-2024-08-06",
+            model="gpt-4o-mini-2024-07-18",
             messages=[{"role": "user", "content": content}],
-            response_format=Resume,
+            response_format=Response,
         )
         end_time = time.time()
         elapsed_time = end_time - start_time
@@ -100,7 +101,7 @@ class ResumeResponse(BaseModel):
     skills: list[str]
     total_time_taken: float
 
-@app.post("/resume", response_model=ResumeResponse)
+@app.post("/resume")
 async def extract_resume(pdf_file: UploadFile = File(...)):
     """API endpoint to extract structured resume data from a PDF."""
     try:
@@ -116,8 +117,9 @@ async def extract_resume(pdf_file: UploadFile = File(...)):
 
         # Step 4: Return the structured output with total time
         return {
-            "name": structured_output.name,
-            "skills": structured_output.skills,
+            "data": structured_output.model_dump(),
+            # "name": structured_output.name,
+            # "skills": structured_output.skills,
             "total_time_taken": total_time,
         }
     except HTTPException as e:

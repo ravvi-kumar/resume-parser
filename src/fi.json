@@ -1,0 +1,1194 @@
+{
+    "data": {
+        "personal_info": {
+            "first_name": "Bassem",
+            "last_name": "Ghazouani",
+            "birth_date": "",
+            "gender": "Male"
+        },
+        "location": {
+            "address": "",
+            "city": "",
+            "postcode": "",
+            "country": "Germany"
+        },
+        "contact_info": {
+            "mobile_number": "+4917623409280",
+            "email": "bassem.ghazouani.freelance@hotmail.com"
+        },
+        "social_media": [
+            {
+                "linkedin": "https://www.linkedin.com/in/bassemghazouani"
+            },
+            {
+                "github": "http://github.com/BassemDev"
+            }
+        ],
+        "experience": [
+            {
+                "start_date": "2024-10-01",
+                "end_date": "__NOWSTRING__",
+                "position": "Senior Software and Cloud Engineer",
+                "company": "Fullstack: Vuejs, typescript; Siemens",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Cloud Specialist",
+                "profession_group": "Consultants and Specialists",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "1",
+                "is_latest_experience": "1"
+            },
+            {
+                "start_date": "2024-10-01",
+                "end_date": "__NOWSTRING__",
+                "position": "Senior Cloud Engineer and Architect",
+                "company": "VueJS; FRIEDA HEALTH GmbH",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Cloud Specialist",
+                "profession_group": "Consultants and Specialists",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "",
+                "end_date": "",
+                "position": "Senior SOFTWARE ENGINEER Freelance Software Engineer - Angular / Spring boot VAADIN",
+                "company": "Bassem GHAZOUANI; BMW GROUP",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Self-Employed",
+                "profession_group": "Other Professions",
+                "profession_class": "Other",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2024-02-01",
+                "end_date": "2024-08-31",
+                "position": "SOFTWARE ENGINEER",
+                "company": "Bassem GHAZOUANI",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Software Engineer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2021-01-01",
+                "end_date": "2022-12-31",
+                "position": "Fullstack Software Engineer - Spring boot / VAADIN",
+                "company": "Gehalt.de/stepstone",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Full Stack Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2017-01-01",
+                "end_date": "2021-01-01",
+                "position": "Software Engineer - React Js / Spring boot",
+                "company": "FREE NOW / Mytaxi",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Java Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2017-01-01",
+                "end_date": "2017-01-01",
+                "position": "Software Developer - Angular / javascript / NodeJs",
+                "company": "FASHION CLOUD",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "JavaScript Programmer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2024-10-01",
+                "end_date": "",
+                "position": "Senior SOFTWARE ENGINEER",
+                "company": "BERUFSERFAHRUNG; Fullstack: Vuejs",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Software Engineer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2024-10-01",
+                "end_date": "",
+                "position": "Senior Cloud Engineer and Architect",
+                "company": "VueJS",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Cloud Specialist",
+                "profession_group": "Consultants and Specialists",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2024-01-01",
+                "end_date": "__NOWSTRING__",
+                "position": "Software Engineer - Angular / Spring boot VAADIN",
+                "company": "BERUFSERFAHRUNG; BMW GROUP",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Java Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2022-01-01",
+                "end_date": "2024-01-01",
+                "position": "Senior Software Engineer - AWS CDK / Java / Kotlin / reactJs",
+                "company": "TAXDOO",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Java Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2021-01-01",
+                "end_date": "2022-01-01",
+                "position": "Fullstack Software Engineer - Spring boot / VAADIN",
+                "company": "Gehalt.de/stepstone",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Full Stack Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2017-01-01",
+                "end_date": "2021-01-01",
+                "position": "Software Engineer - React Js / Spring boot",
+                "company": "FREE NOW / Mytaxi",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "Java Developer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2017-01-01",
+                "end_date": "2017-01-01",
+                "position": "Software Developer - Angular / javascript / NodeJs",
+                "company": "FASHION CLOUD",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "JavaScript Programmer",
+                "profession_group": "Programmers",
+                "profession_class": "Information and Communication Technology",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2024-01-01",
+                "end_date": "",
+                "position": "",
+                "company": "",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "",
+                "profession_group": "",
+                "profession_class": "",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            },
+            {
+                "start_date": "2023-01-01",
+                "end_date": "",
+                "position": "",
+                "company": "",
+                "description": "",
+                "city": "",
+                "region": "",
+                "country": "",
+                "profession": "",
+                "profession_group": "",
+                "profession_class": "",
+                "is_current_experience": "0",
+                "is_latest_experience": "0"
+            }
+        ],
+        "skills": {
+            "languages": [
+                {
+                    "language": "English",
+                    "level": "",
+                    "code": "en"
+                }
+            ],
+            "technologies": [
+                {
+                    "name": "AWS CDK",
+                    "description": "AWS Cdk",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_2, exp_7, exp_10, jt_10"
+                },
+                {
+                    "name": "AWS Lambda",
+                    "description": "AWS Lambda",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "CloudFront",
+                    "description": "Amazon Cloudfront",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_10"
+                },
+                {
+                    "name": "EC2",
+                    "description": "Amazon Elastic Compute Cloud",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_12"
+                },
+                {
+                    "name": "S3",
+                    "description": "Amazon S3",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "SNS",
+                    "description": "Amazon Simple Notification Service (SNS)",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_11"
+                },
+                {
+                    "name": "aws",
+                    "description": "Amazon Web Services",
+                    "years": "7",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_4, exp_5, exp_6, exp_10, exp_11, exp_12, exp_13"
+                },
+                {
+                    "name": "Angular",
+                    "description": "AngularJS",
+                    "years": "5",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, jt_2, exp_5, exp_6, jt_6, exp_9, jt_9, exp_12, exp_13, jt_13"
+                },
+                {
+                    "name": "Ansible",
+                    "description": "Ansible",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "Kafka",
+                    "description": "Apache Kafka",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_8, exp_10"
+                },
+                {
+                    "name": "Maven",
+                    "description": "Apache Maven",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_8, exp_10"
+                },
+                {
+                    "name": "API Gateway",
+                    "description": "Api Gateway",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "API",
+                    "description": "Application Programming Interfaces (APIs)",
+                    "years": "1",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_6, exp_8, exp_9, exp_13"
+                },
+                {
+                    "name": "APIs",
+                    "description": "Application Programming Interfaces (APIs)",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_12, exp_13"
+                },
+                {
+                    "name": "backend",
+                    "description": "Backend",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_6, exp_9, exp_11, exp_12, exp_13, exp_15"
+                },
+                {
+                    "name": "bash scripting",
+                    "description": "Bash Shell",
+                    "years": "1",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_9"
+                },
+                {
+                    "name": "business logic",
+                    "description": "Business Logic",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4"
+                },
+                {
+                    "name": "application logic",
+                    "description": "Business Logic",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "Caching",
+                    "description": "Caching",
+                    "years": "0",
+                    "last_used": "",
+                    "foundIn": "exp_8"
+                },
+                {
+                    "name": "CSS",
+                    "description": "Cascading Style Sheets (CSS)",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_7"
+                },
+                {
+                    "name": "cloud",
+                    "description": "Cloud Computing",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "Cloud Engineer",
+                    "description": "Cloud Engineering",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, jt_0, exp_1, jt_1, exp_7, exp_8, jt_8"
+                },
+                {
+                    "name": "CloudWatch",
+                    "description": "Cloudwatch",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "test coverage",
+                    "description": "Code Coverage",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "Confluence",
+                    "description": "Confluence",
+                    "years": "1",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_9"
+                },
+                {
+                    "name": "CI/CD",
+                    "description": "Continuous Integration",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_2, exp_4, exp_5, exp_7, exp_8, exp_9, exp_10, exp_11, exp_12"
+                },
+                {
+                    "name": "CI/CD pipeline",
+                    "description": "Continuous Integration",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "CRUD",
+                    "description": "Crud",
+                    "years": "6",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_12, exp_14, exp_15"
+                },
+                {
+                    "name": "data management",
+                    "description": "Data Management",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "data mapping",
+                    "description": "Data Mapping",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "data processing",
+                    "description": "Data Processing",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_4"
+                },
+                {
+                    "name": "data retrieval",
+                    "description": "Data Retrieval",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "data synchronization",
+                    "description": "Data Synchronization",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "data operations",
+                    "description": "DataOps",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_15"
+                },
+                {
+                    "name": "databases",
+                    "description": "Databases",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "database",
+                    "description": "Databases",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_6"
+                },
+                {
+                    "name": "Automated deployment",
+                    "description": "Deployment Automation",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "DevOPS",
+                    "description": "DevOps",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": ""
+                },
+                {
+                    "name": "Django",
+                    "description": "Django Web Framework",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_14"
+                },
+                {
+                    "name": "Django framework",
+                    "description": "Django Web Framework",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_14"
+                },
+                {
+                    "name": "Docker",
+                    "description": "Docker",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_4, exp_8, exp_11"
+                },
+                {
+                    "name": "Elasticsearch",
+                    "description": "Elasticsearch",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_11"
+                },
+                {
+                    "name": "data exchange",
+                    "description": "Electronic Data Interchange (EDI)",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5"
+                },
+                {
+                    "name": "messaging system",
+                    "description": "Enterprise Messaging Systems",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "Express.js",
+                    "description": "Express.js",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "XML",
+                    "description": "Extensible Markup Language (XML)",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_8, exp_9, exp_10"
+                },
+                {
+                    "name": "ETL",
+                    "description": "Extract Transform Load (ETL)",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "flutter",
+                    "description": "Flutter",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "frontend",
+                    "description": "Front End Software Development",
+                    "years": "6",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_5, exp_6, exp_10, exp_12, exp_13"
+                },
+                {
+                    "name": "Git",
+                    "description": "Git",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "github",
+                    "description": "Github",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "Github actions",
+                    "description": "Github",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_4, exp_9, exp_11"
+                },
+                {
+                    "name": "Gitlab CI",
+                    "description": "Gitlab-ci",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_8, exp_10"
+                },
+                {
+                    "name": "Gradle",
+                    "description": "Gradle",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "graphQL",
+                    "description": "Graphql",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_15"
+                },
+                {
+                    "name": "Groovy",
+                    "description": "Groovy",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "HTML",
+                    "description": "HTML",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_7"
+                },
+                {
+                    "name": "Hibernate",
+                    "description": "Hibernate (Java)",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_4, exp_9, exp_11"
+                },
+                {
+                    "name": "user interface",
+                    "description": "Human-Computer Interaction",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4"
+                },
+                {
+                    "name": "access management",
+                    "description": "Identity and Access Management",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "infrastructure as code (IaC)",
+                    "description": "Infrastructure as Code (IaC)",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_2, exp_10"
+                },
+                {
+                    "name": "integration tests",
+                    "description": "Integration Tests",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_5, exp_8, exp_10, exp_12"
+                },
+                {
+                    "name": "Jira",
+                    "description": "JIRA",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": ""
+                },
+                {
+                    "name": "JSON",
+                    "description": "JSON",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_4, exp_6, exp_9, exp_11, exp_13"
+                },
+                {
+                    "name": "Java",
+                    "description": "Java (Programming Language)",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_4, exp_5, exp_9, exp_10, jt_10, exp_11, exp_12, exp_15"
+                },
+                {
+                    "name": "JPA",
+                    "description": "Java Persistence API",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_11"
+                },
+                {
+                    "name": "Javascript",
+                    "description": "JavaScript (Programming Language)",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_2, exp_4, exp_5, exp_6, jt_6, exp_7, exp_8, exp_9, exp_10, exp_11, exp_12, exp_13, jt_13"
+                },
+                {
+                    "name": "Jest",
+                    "description": "JavaScript (Programming Language)",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "jenkins",
+                    "description": "Jenkins",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_11"
+                },
+                {
+                    "name": "Junit",
+                    "description": "Junit",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_4, exp_5, exp_8, exp_9, exp_10, exp_11, exp_12"
+                },
+                {
+                    "name": "Kotlin",
+                    "description": "Kotlin",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_4, exp_5, exp_8, exp_10, jt_10, exp_11, exp_12"
+                },
+                {
+                    "name": "Kubernetes",
+                    "description": "Kubernetes",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_12"
+                },
+                {
+                    "name": "MEAN stack",
+                    "description": "Mean Stack",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "microservices",
+                    "description": "Microservices",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "backend services",
+                    "description": "Microservices",
+                    "years": "6",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_5"
+                },
+                {
+                    "name": "MongoDB",
+                    "description": "MongoDB",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "MySQL",
+                    "description": "MySQL",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_4, exp_5, exp_8, exp_9, exp_10, exp_11, exp_12"
+                },
+                {
+                    "name": "NestjS",
+                    "description": "NestJS",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_15"
+                },
+                {
+                    "name": "NoSQL",
+                    "description": "NoSQL",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "nodejs",
+                    "description": "Node.Js",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_2, exp_5, exp_6, jt_6, exp_7, exp_8, exp_10, exp_12, exp_13, jt_13"
+                },
+                {
+                    "name": "Node",
+                    "description": "Node.Js",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_5, exp_8, exp_9, exp_10, exp_12"
+                },
+                {
+                    "name": "Node.js",
+                    "description": "Node.Js",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "NPM",
+                    "description": "Npm(Software)",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_2, exp_4, exp_5, exp_6, exp_7, exp_8, exp_9, exp_10, exp_11, exp_12, exp_13"
+                },
+                {
+                    "name": "Oauth",
+                    "description": "OAuth",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_4, exp_5, exp_8, exp_9, exp_10, exp_11, exp_12"
+                },
+                {
+                    "name": "OAuth2",
+                    "description": "OAuth",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_12"
+                },
+                {
+                    "name": "Oracle",
+                    "description": "Oracle Applications",
+                    "years": "1",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_9"
+                },
+                {
+                    "name": "php",
+                    "description": "PHP (Programming Language)",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_12"
+                },
+                {
+                    "name": "pair programming",
+                    "description": "Pair Programming",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "Protractor framework",
+                    "description": "Protractor",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6"
+                },
+                {
+                    "name": "Protractor",
+                    "description": "Protractor",
+                    "years": "0",
+                    "last_used": "2017-01-01",
+                    "foundIn": "exp_6, exp_13"
+                },
+                {
+                    "name": "Python",
+                    "description": "Python (Programming Language)",
+                    "years": "1",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8, exp_14"
+                },
+                {
+                    "name": "RabbitMq",
+                    "description": "RabbitMQ",
+                    "years": "2",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_11"
+                },
+                {
+                    "name": "React",
+                    "description": "ReactJS",
+                    "years": "5",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_5, exp_8, exp_12, exp_15"
+                },
+                {
+                    "name": "ReactJs",
+                    "description": "ReactJS",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_5, exp_8, exp_10, jt_10, exp_12, exp_15"
+                },
+                {
+                    "name": "React.js",
+                    "description": "ReactJS",
+                    "years": "6",
+                    "last_used": "2022-12-31",
+                    "foundIn": "exp_4, exp_5, exp_11, exp_12"
+                },
+                {
+                    "name": "React Js",
+                    "description": "ReactJS",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, jt_5, exp_12, jt_12"
+                },
+                {
+                    "name": "Redis",
+                    "description": "Redis",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "regex",
+                    "description": "Regular Expressions",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0"
+                },
+                {
+                    "name": "system reliability",
+                    "description": "Reliability of Systems",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2"
+                },
+                {
+                    "name": "RESTful API",
+                    "description": "Restful APIs",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "RESTful APIs",
+                    "description": "Restful APIs",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_6"
+                },
+                {
+                    "name": "Rest API",
+                    "description": "Restful APIs",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_14"
+                },
+                {
+                    "name": "rest-API",
+                    "description": "Restful APIs",
+                    "years": "1",
+                    "last_used": "",
+                    "foundIn": "exp_14"
+                },
+                {
+                    "name": "RESTful",
+                    "description": "Restful APIs",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_8, exp_12, exp_13"
+                },
+                {
+                    "name": "S3 buckets",
+                    "description": "S3 Bucket",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "Selenium",
+                    "description": "Selenium",
+                    "years": "4",
+                    "last_used": "2021-01-01",
+                    "foundIn": "exp_5, exp_12"
+                },
+                {
+                    "name": "serverless",
+                    "description": "Serverless Computing",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "software architecture",
+                    "description": "Software Architecture",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "bugs",
+                    "description": "Software Debugging",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "code quality",
+                    "description": "Software Quality",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "application security",
+                    "description": "Software Security",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "SonarQube",
+                    "description": "SonarQube",
+                    "years": "2",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_4, exp_8, exp_11"
+                },
+                {
+                    "name": "Spring Boot",
+                    "description": "Spring-boot",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, jt_2, exp_4, jt_4, exp_5, jt_5, exp_8, exp_9, jt_9, exp_11, jt_11, exp_12, jt_12"
+                },
+                {
+                    "name": "Swagger",
+                    "description": "Swagger",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_4, exp_8, exp_10, exp_11"
+                },
+                {
+                    "name": "Terraform",
+                    "description": "Terraform",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                },
+                {
+                    "name": "typescript",
+                    "description": "TypeScript",
+                    "years": "8",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_2, exp_4, exp_5, exp_6, exp_7, exp_8, exp_9, exp_10, exp_11, exp_12, exp_13, exp_15"
+                },
+                {
+                    "name": "UML diagrams",
+                    "description": "UML",
+                    "years": "",
+                    "last_used": "",
+                    "foundIn": "exp_2"
+                },
+                {
+                    "name": "UML",
+                    "description": "UML",
+                    "years": "2",
+                    "last_used": "2024-01-01",
+                    "foundIn": "exp_10"
+                },
+                {
+                    "name": "unit tests",
+                    "description": "Unit Testing",
+                    "years": "7",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_2, exp_5, exp_6, exp_8, exp_10, exp_12, exp_13"
+                },
+                {
+                    "name": "VAADIN",
+                    "description": "Vaadin",
+                    "years": "3",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_2, exp_4, jt_4, exp_9, jt_9, exp_11, jt_11"
+                },
+                {
+                    "name": "Vuejs",
+                    "description": "Vue.js",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0, exp_1, exp_7, exp_8"
+                },
+                {
+                    "name": "Vue.js",
+                    "description": "Vue.js",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_0"
+                },
+                {
+                    "name": "web services",
+                    "description": "Web Services",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1"
+                },
+                {
+                    "name": "webhooks",
+                    "description": "Webhooks",
+                    "years": "0",
+                    "last_used": "__NOWSTRING__",
+                    "foundIn": "exp_1, exp_8"
+                }
+            ]
+        },
+        "nationality": "",
+        "job_title": "Senior Software and Cloud Engineer",
+        "summary": {
+            "totalExperienceYears": "8",
+            "totalExperienceMonths": "97",
+            "currentJob": "Senior Software and Cloud Engineer",
+            "currentEmployer": "Fullstack: Vuejs, typescript; Siemens",
+            "currentWorkField": {
+                "workFieldCode": "83",
+                "workFieldDescription": "Consultants and Specialists",
+                "experienceLevelCode": "CV_5_EXPERT",
+                "experienceLevelDescription": "Expert"
+            },
+            "highestDegree": {
+                "localCode": "",
+                "localDescription": "",
+                "internationalCode": "",
+                "internationalDescription": "",
+                "endDate": ""
+            },
+            "summaryAmbitionSection": "",
+            "extraCurricularSection": ""
+        },
+        "other": {
+            "hobbies": [
+                {
+                    "hobby": "Jenkins"
+                },
+                {
+                    "hobby": "kotlin"
+                },
+                {
+                    "hobby": "spring"
+                }
+            ],
+            "profilePicture": {}
+        },
+        "metadata": {
+            "filename": "apply_doc_freelance.pdf",
+            "lang_code": "en",
+            "lang": "english",
+            "last_modified": "2025-01-14T12:23",
+            "partial_extraction_indicator": "0"
+        },
+        "document_text": ""
+    }
+}
